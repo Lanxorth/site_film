@@ -1,0 +1,53 @@
+button {
+	margin-top: 20px;
+	border-radius: 5px;
+	font-size: 25px;
+	font-family: Bebas;
+	color: white;
+	border: none;
+	background-color: #1a1a1a;
+}
+
+.AccueilS {
+	color: rgb(56, 255, 16);
+	font-size: 30px;
+}
+
+button:hover {
+	border-color: rgb(56, 255, 16);
+	color: rgb(56, 255, 16);
+}
+
+.al p,
+h3 {
+	padding-left: 0px;
+	margin-bottom: 15px;
+}
+.al p {
+	font-size: 15px;
+}
+
+h3 {
+	font-family: Bebas;
+	font-weight: normal;
+	color: rgb(56, 255, 16);
+}
+
+.search-all {
+	margin-top: 80px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+input {
+	margin-top: 20px;
+	padding: 10px;
+	font-size: x-large;
+}
+
+.control {
+	background-color: rgb(40, 38, 38);
+	padding: 30px;
+}

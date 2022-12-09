@@ -1,0 +1,28 @@
+.App .App-logo {
+  margin-top: 60px;
+  margin-left: 10px;
+  height: 250px;
+  width: 750px;
+  justify-content:center;
+  pointer-events: none;
+}
+  
+.App {
+  margin-top: 100px;
+}
+
+body {
+  background: url(/public/img/movie_background.png);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-top: 2rem;
+}
+
+header {
+  background-color: rgb(40, 38, 38);
+  padding-bottom: 30px;
+}
